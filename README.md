@@ -1,4 +1,4 @@
-# WCAG 3.0 Technical Audit - Issue #649
+# CENSURED WCAG 3.0 Technical Audit - Issue #649
 ## Proposal: Evolution of Conformance Testing for Modern CSS Interoperability
 Transition from DOM to AOM & Validator Obsolescence
 

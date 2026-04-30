@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://registro-auditoria-wcag3-issue642-pre.netlify.app/

@@ -4,3 +4,8 @@ Transition from DOM to AOM & Validator Obsolescence
 
 ### WCAG3 Issue 649. https://github.com/w3c/wcag3/issues/649
 ### LOG PDF. https://graphic-designer.github.io/WCAG3-Issue649
+
+---
+
+# OPEN WCAG ACT RULES [ISSUE 418 ](https://github.com/w3c/wcag-act-rules/issues/418)
+Proposal: Update ACT Rule methodologies to evaluate Computed Accessibility Tree (AOM) states instead of static CSS string parsing
